@@ -1,0 +1,1 @@
+Password Generator application built with JavaScript tutorial by Web Dev Simplified on Youtube.
